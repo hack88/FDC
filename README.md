@@ -1,29 +1,26 @@
+Domain currency
 
-FieldCoin - ITC
+Incidental conditions
 
-FieldCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 1 billion coins, no PoW mining will get any coins. The 1 billion coins will be distributed equally to 1000 individuals with 1 million coins each, completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
+The domain currency is a pure POS coin, which produces coins through the POS block. In addition to the first piece, it produced the first 8 million 888 thousand and 800 coins. No prisoners of war would get any coins. The 8 million 888 thousand and 800 coins will be evenly distributed to 10 thousand people, which uses the completely open block chain technology, based on the third generation block chain technology, block chain applications, and cryptography.
 
-Equal distribution to the WHOLE community. Each person gets 1 mil coins, including each person in the dev team. Dev team gets absolutely no more than anyone else! It is the community coin! While the dev team will maintain and enhance the code and fix any issues, it is the community which will promote and market the coin.  
+Equal distribution to the community. Each person gets 1 field coins, including everyone in the FDC team. The FDC team is absolutely no more than anyone else! This is a community coin! The FDC team will maintain and enforce code and fix any problems. This is the coin that the society will push and market.
 
-FieldCoin also adopts a variable PoS rate with the following annual interest rate:
-Year-1: 30%
-Year-2: 20%
-Year-3: 10%
-Year-4: 5%
-Year-5: 2%
-Starting from Year-6: 1% annual interest for maintnance. 
+The domain currency also adopts variable POS interest rate, its annual interest rate is 1 years: 30% years 2:20% years 3:10% year 4:5% 5:2% starts from 6 years: 1% years interest maintenance.
 
-- 60 sec block time
-- diff retarget each block
-- 3 transaction confirmations
-- 50 minted block confirmations
-- PoS block generation after 1 day of holding
+The currency of FDC is created by the free circle of investors and the operation of night work, which is not forgery and duplication.
 
-100% Premine.
+Www.fieldcoin.cc
 
-Ports:
-connection:	20801
-RPC:			20802
+Jkbb.cc
 
-Listen for connections on <port> (default: 12158 or testnet: 30811)"
-Listen for JSON-RPC connections on <port> (default: 12157 or testnet: 30812)
+60 second block time
+DIFF redirects each block
+3 transaction confirmation
+50 block confirmation
+POS block generation for 1 days after saving
+100% pulley.
+
+Port: Connection: 20801 RPC:20802
+
+Monitor connections (default value: 12158 or TestNET: 30811) "listen to JSON-RPC connections (default: 12157 or TestNET: 30812).
